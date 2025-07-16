@@ -10,8 +10,8 @@ import {
 
 function App() {
   const elementProps = {
-    applicationId: "sandbox-sq0idb-74Le9u9KVbpW9MX9ZPuUIA",
-    locationId: "L3RQ5YM5DMKG9",
+    applicationId: "",
+    locationId: "",
     cardTokenizeResponseReceived: (token: unknown) => {
       console.log({ token });
      },
