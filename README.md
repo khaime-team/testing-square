@@ -7,3 +7,4 @@ JCB	3569 9900 1009 5841	111
 American Express	3400 000000 00009	1111
 China UnionPay	6222 9888 1234 0000	123
 Square Gift Card	7783 3200 0000 0000	⛔# testing-square
+# testing-square
